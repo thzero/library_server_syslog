@@ -16,7 +16,7 @@
   },
   "homepage": "https://github.com/thzero/library_server_syslog#readme",
   "engines": {
-    "node": ">=13.0.1"
+    "node": ">=12.8.3"
   },
   "scripts": {
     "debug": "set NODE_ENV=dev && SET LOG_LEVEL=debug && nodemon -r esm --nolazy --inspect-brk=9229 index.js",
