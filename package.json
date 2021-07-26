@@ -29,6 +29,6 @@
     "syslog-server": "^1.0.1"
   },
   "devDependencies": {
-    "@thzero/library_cli": "^0.12.0"
+    "@thzero/library_cli": "^0.13.14"
   }
 }
